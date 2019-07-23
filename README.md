@@ -99,8 +99,6 @@
 ------
 
 
-作者 *Laziji*
-
 
 
   [1]: https://github-laziji.github.io
